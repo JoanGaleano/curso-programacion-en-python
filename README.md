@@ -61,6 +61,6 @@ Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, M
 
 ## 📄 Licencia
 
-Copyright (c) [2026] [Lina María Castro Córdoba]. Todos los derechos reservados.
+Copyright © [2026] [Lina María Castro Córdoba]. Todos los derechos reservados.
 
 El uso, copia, modificación, distribución o comercialización de este material o parte de él, sin la autorización previa y por escrito de su autor, está estrictamente prohibido.
